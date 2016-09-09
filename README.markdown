@@ -2,7 +2,7 @@ FIX
 ===
 Reference Architecture for eCommerce on Heroku – [More Information](https://heroku.github.io/fix)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/heroku/fix)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/YSaxon/fix)
 
 ## Default admin login
 
